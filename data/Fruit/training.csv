@@ -1,0 +1,8 @@
+name,color,HighP,calories,foodType
+spinach,green,true,low,vegetable
+orange,orange,false,high,fruit
+cucumber,green,false,low,vegetable
+carrot,orange,false,medium,vegetable
+sweet potato,orange,true,high,vegetable
+avocado,green,true,high,fruit
+banana,yellow,true,high,fruit
